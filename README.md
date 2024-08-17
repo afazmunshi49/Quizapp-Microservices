@@ -1,5 +1,5 @@
 # Quizapp-Microservices
-A crud quiz app made using microservices architecture
+A crud quiz app made using microservices architecture using spring framework.
 # Architecture
 
 ![quizapp-architecture drawio (1)](https://github.com/user-attachments/assets/22027fbd-95a0-4f99-b89f-4247b0309f44)
